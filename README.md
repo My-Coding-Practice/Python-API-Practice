@@ -3,4 +3,4 @@
 ### This repository will be used to cover the freecodecamp tutorial video, plus any additional API practice I kight want to do.
 
 ##### Video link: https://www.youtube.com/watch?v=0sOvCWFmrtA&t=11s
-##### Left video at: 13:26
+##### Left video at: 39:00
