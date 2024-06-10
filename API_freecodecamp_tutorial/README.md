@@ -7,4 +7,5 @@
 <li>type in "uvicorn main:app"</li>
 </ol>
 
-##### uvicorn is an extension, main is the pyhton file and app is the FastAPI instance created in the main.py file (line 3)
+##### uvicorn is an extension, main is the python file and app is the FastAPI instance created in the main.py file (line 3)
+##### run uvicorn main:app --reload to have changes show up automatically, like nodemon
